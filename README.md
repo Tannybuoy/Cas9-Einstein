@@ -1,5 +1,6 @@
 # Cas9-Einstein
 Repo for Helyx India Hacks
+Clone the repository and ```start home.html```
 
 ### CNN-SVR Research Paper
 https://www.frontiersin.org/articles/10.3389/fgene.2019.01303/full
@@ -30,3 +31,4 @@ Delving into new and growing fields of gene editing and deep learning, and worki
 * Working on improving the Deep Leaning model by changing parameters or adding more layers. 
 * Work with a professor who is doing research in this field
 * Understand the moral and ethical concerns behind gene editing.
+* Introduce filters for images, videos, articles to further narrow down search
