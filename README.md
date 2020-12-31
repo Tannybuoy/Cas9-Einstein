@@ -1,10 +1,10 @@
 # Cas9-Einstein
 Repo for Helyx India Hacks
 
-# CNN-SVR Research Paper
+### CNN-SVR Research Paper
 https://www.frontiersin.org/articles/10.3389/fgene.2019.01303/full
 
-# Original Deep Learning Model
+### Original Deep Learning Model
 GitHub repo - https://github.com/Peppags/CNN-SVR/
 
 ## Inspiration
