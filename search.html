@@ -3,6 +3,56 @@
 <head>
   <title>Cas9 Search</title>
   <link rel="stylesheet" type="text/css" href="styles/style_search.css">
+  <style>
+* {
+  box-sizing: border-box;
+}
+
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {
+  float: left;
+  width: 100%;
+}
+/* Add a card effect for articles */
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {
+    width: 100%;
+    padding: 0;
+  }
+}
+
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
+</style>
 </head>
 
 <body>
@@ -43,11 +93,18 @@
     <!--------CONTENT--------
     ------------------------>
     <h5>About 5,170,000 results (0.37 seconds) </h5>
-
     <div class="content">
-
+      <div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2>A unique technology for genome editing</h2>
+      <p> <b>CRISPR: </b> CRISPR stands for "clusters of regularly interspaced short palindromic repeats."</p>
+      <p> <b>Cas9: </B>The protein Cas9 (or "CRISPR-associated") is an enzyme that acts like a pair of molecular scissors, capable of cutting strands of DNA.</p>
+    </div>
+  </div>
+</div>
       <div class="entry">
-        <a class="lead" href="#">
+        <a class="lead" href="article.html">
           Genome engineering using the CRISPR-Cas9 system | Nature ...</a>
         <p class="url">Nature ...www.nature.com › nature protocols › protocols</p>
         <p class="detail">Jul 26, 2013 — Cas9: an RNA-guided nuclease for genome editing. CRISPR-Cas is a microbial adaptive immune system that uses RNA-guided nucleases to ...</p>
