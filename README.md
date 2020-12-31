@@ -1,6 +1,6 @@
 # Cas9-Einstein
 Repo for Helyx India Hacks
-Clone the repository and '''start home.html'''
+Clone the repository and ```start home.html```
 
 ### CNN-SVR Research Paper
 https://www.frontiersin.org/articles/10.3389/fgene.2019.01303/full
