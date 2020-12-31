@@ -1,6 +1,12 @@
 # Cas9-Einstein
 Repo for Helyx India Hacks
 
+# CNN-SVR Research Paper
+https://www.frontiersin.org/articles/10.3389/fgene.2019.01303/full
+
+# Original Deep Learning Model
+GitHub repo - https://github.com/Peppags/CNN-SVR/
+
 ## Inspiration
 As soon as I heard about the hackathon I was very interested in learning more about bioinformatics. Additionally, I knew that the Nobel Prize in Chemistry for 2020 was given to 2 women for developing a method for gene editing. The original idea was that since I have done a course on data science, I will try to explore applications of machine learning in this field. It is very important to understand terminology to know how to do data pre-processing before running the model. The resources were spread across different websites like Google, Nature, Youtube, Springer, GitHub, and I was forced to oscillate between the different platforms. This made me feel the need for a one-stop shop info hub for everything related to Gene Editing! Cue - "Cas9 Einstein."
 
@@ -17,9 +23,10 @@ Was only the second time I'm working with CSS so it was difficult. Also, have ne
 Firstly I have learnt so much about gene-editing and deep learning because of this project. I am super proud of having a fully function website and successfully running the model! I can now change the parameters of the deep learning model to see how the accuracy of the model varies. 
 
 ## What I learned
-Delving into new and growing fields of gene editing and deep learning, and working in their intersection was a great learning curve. Lots of terminology needed to be absorbed in the past couple days. 
+Delving into new and growing fields of gene editing and deep learning, and working in their intersection was a great learning curve. Lots of terminology needed to be absorbed in the past couple days, in both gene-editing and deep learning.
 
 ## What's next for Cas9 Einstein
-Using Google for Life Sciences API provided by Google Cloud for Genome analysis.
-Working on improving the Deep Leaning model by changing parameters or adding more layers. 
-Work with a professor who is doing research in this field to also understand the moral and ethical concerns behind gene editing.
+* Using Google for Life Sciences API provided by Google Cloud for Genome analysis.
+* Working on improving the Deep Leaning model by changing parameters or adding more layers. 
+* Work with a professor who is doing research in this field
+* Understand the moral and ethical concerns behind gene editing.
